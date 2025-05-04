@@ -6,6 +6,7 @@ export default function Navbar () {
             <ul className="flex justify-between w-1/2">
                 <Link href= "/"><li>Home</li></Link>
                 <Link href= "/Services"><li>Services</li></Link>
+                <Link href= "/posts"><li>Posts</li></Link>
                 <Link href= "/dashboard"><li>Dashboard</li></Link>
                 
                 
