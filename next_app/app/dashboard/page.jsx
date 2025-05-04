@@ -1,3 +1,9 @@
+
+export const metadata = {
+    title: "Dashboard",
+    description: "Dashboard Page Data",
+  };
+
 export default function Dashboard () {
     return (
         <div>
